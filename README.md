@@ -4,6 +4,9 @@
 <p><em>Python Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+- 📫 How to reach me 
+**sj27754@gmail.com**
+
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Ess_Jay2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ess_Jay2" height="30" width="40" /></a>
