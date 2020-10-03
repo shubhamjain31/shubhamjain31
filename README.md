@@ -4,18 +4,13 @@
 <p><em>Python Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://in.linkedin.com/in/shubhamjain31">
-    <img align="left" alt="Shubham Jain | Linkedin" width="24px" src="https://github.com/shubhamjain31/shubhamjain31/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/theshubham31/">
-    <img align="left" alt="Shubham Jain | Instagram" width="24px" src="https://github.com/shubhamjain31/shubhamjain31/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto: sj27754@gmail.com">
-    <img align="left" alt="Shubham Jain | Gmail" width="26px" src="https://github.com/shubhamjain31/shubhamjain31/blob/master/Assets/Gmail.svg" />
-  </a>
-  <a href="https://twitter.com/Ess_Jay2">
-    <img align="left" alt="Shubham Jain | Twitter" width="26px" src="https://github.com/shubhamjain31/shubhamjain31/blob/master/Assets/Twitter.svg" />
-  </a>
+<p align="left"> 
+<h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/Ess_Jay2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ess_Jay2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhamjain31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhamjain31" height="30" width="40" /></a>
+<a href="https://instagram.com/theshubham31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theshubham31" height="30" width="40" /></a>
+</p>
+
 <!--
 **shubhamjain31/shubhamjain31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
