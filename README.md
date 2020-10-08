@@ -38,7 +38,7 @@ const shubham () => ({
       machineLearning: ["Linear Regression", "Logistic Regression", 
       "Support Vector Machine","Decision Tree",
       "Random Forest","KMeans","clustering", "k-nearest neighbors"],
-      deeplearning: ["keras","tensorflow"],
+
       dataScience: ["pandas","numpy","matplotlib","seaborn"],
       misc: ["selenium", "open-cv", "socket programming"]
       },
