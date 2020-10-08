@@ -38,7 +38,6 @@ const shubham () => ({
       machineLearning: ["Linear Regression", "Logistic Regression", 
       "Support Vector Machine","Decision Tree",
       "Random Forest","KMeans","clustering", "k-nearest neighbors"],
-
       dataScience: ["pandas","numpy","matplotlib","seaborn"],
       misc: ["selenium", "open-cv", "socket programming"]
       },
@@ -47,6 +46,7 @@ const shubham () => ({
       "Visual Studio",
     ]
   });
+      
 ```
 
 ⭐️ From [shubhamjain31](https://github.com/shubhamjain31)
