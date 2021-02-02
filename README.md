@@ -39,12 +39,13 @@ const shubham () => ({
       "Support Vector Machine","Decision Tree",
       "Random Forest","KMeans","clustering", "k-nearest neighbors"],
       dataScience: ["pandas","numpy","matplotlib","seaborn"],
-      misc: ["selenium", "open-cv", "socket programming", "NLP"]
+      misc: ["selenium", "open-cv", "socket programming", "NLP", "PySpark"]
       },
     tools: [
       "Sublime Text", "PyCharm",
       "Visual Studio",
-    ]
+    ],
+    Operating Systems: ["Windows", "Linux"]
   });
       
 ```
