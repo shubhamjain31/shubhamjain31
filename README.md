@@ -45,7 +45,7 @@ const shubham () => ({
       "Sublime Text", "PyCharm",
       "Visual Studio",
     ],
-    Operating Systems: ["Windows", "Linux"]
+    OS: ["Windows", "Linux"]
   });
       
 ```
