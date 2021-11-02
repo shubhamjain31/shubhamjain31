@@ -23,14 +23,14 @@
 ```js
 const shubham () => ({
     pronouns: "He" | "Him",
-    code: ["Python", "Java"],
+    code: ["Python", "Java", "TypeScript"],
     askMeAbout: [
       "python", "tech", "memes",
       "webdev", "setups"
     ],
     technologies: {
         web_development:{
-            framework: ["django", "flask"],
+            framework: ["django", "flask", "Angular"],
             databases: ["mysql","sqlite","mongoDB","postgres","redis"],
             web_servers: ["heroku", "pythonanywhere"],
             wsgi_server: ["gunicorn"],
