@@ -30,16 +30,16 @@ const shubham () => ({
     ],
     technologies: {
         web_development:{
-            framework: ["django", "flask", "Angular"],
+            framework: ["django", "flask", "angular", "ionic"],
             databases: ["mysql","sqlite","mongoDB","postgres","redis"],
-            web_servers: ["heroku", "pythonanywhere"],
+            web_servers: ["digitalocean", "aws ec2", "aws lightsail", "heroku"],
             wsgi_server: ["gunicorn"],
         },
       machineLearning: ["Linear Regression", "Logistic Regression", 
       "Support Vector Machine","Decision Tree",
       "Random Forest","KMeans","clustering", "k-nearest neighbors"],
       dataScience: ["pandas","numpy","matplotlib","seaborn"],
-      misc: ["selenium", "open-cv", "socket programming", "NLP", "PySpark"]
+      misc: ["selenium", "open-cv", "socket programming", "NLP", "PySpark", "celery"]
       },
     tools: [
       "Sublime Text", "PyCharm",
