@@ -30,7 +30,7 @@ const shubham () => ({
     ],
     technologies: {
         web_development:{
-            framework: ["django", "flask", "angular", "ionic"],
+            framework: ["django", "flask", "fastapi", "angular", "ionic"],
             databases: ["mysql","sqlite","mongoDB","postgres","redis"],
             web_servers: ["digitalocean", "aws ec2", "aws lightsail", "heroku"],
             wsgi_server: ["gunicorn"],
