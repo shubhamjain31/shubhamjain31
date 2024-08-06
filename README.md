@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Shubham Jain! 👨‍💻 </h2>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.leadsnextech.com/">Leads NexTech India Private Limited</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Senior Software Engineer at <a href="https://www.leadsnextech.com/">Leads NexTech India Private Limited</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 📫 How to reach me 
@@ -39,7 +39,7 @@ const shubham () => ({
       "Support Vector Machine","Decision Tree",
       "Random Forest","KMeans","clustering", "k-nearest neighbors"],
       dataScience: ["pandas","numpy","matplotlib","seaborn"],
-      misc: ["selenium", "open-cv", "socket programming", "NLP", "PySpark", "celery", "GraphQL",  "Zappa"]
+      misc: ["selenium", "open-cv", "socket programming", "NLP", "PySpark", "celery", "GraphQL",  "Zappa", "Docker"]
       },
     tools: [
       "Sublime Text", "PyCharm",
